@@ -1,0 +1,17 @@
+table{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+}
+
+table, td{
+    border-spacing: 0ch;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 20px;
+}
+
+#tb, #tr{
+    background-color: green;
+    color: white;
+}
